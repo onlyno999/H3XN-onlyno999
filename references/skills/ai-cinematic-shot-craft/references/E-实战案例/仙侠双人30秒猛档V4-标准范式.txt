@@ -1,0 +1,225 @@
+﻿════════════════════════════════════════
+仙侠双人 · 30 秒史诗对打 · 猛档 V4（主推）
+身份：④ 仙侠国漫指导（主）＋ ③ 武术指导（顾问）
+质感档：C 档顶配 ｜ 画幅 9:16 竖屏 ｜ 模型 Seedance 2.5
+拆段：6 段 × 5 秒，每段 2 镜 → 全片 12 镜，每镜 2.5 秒
+全片 36 个动作，每 2.5 秒 3 个动作，单段提示词上限 200 词
+
+两条标杆片实测对照（这是密度标准，不要凭感觉改）
+   标杆一 35 秒：硬切 8 次，平均镜长 4.4 秒，动作强度均值 2.8，无闪白，亮度中位 45
+   标杆二 17.5 秒：硬切 8 次，平均镜长 2.18 秒，动作强度均值 6.3，有闪白（10.1 秒，全片 58% 处），亮度中位 43
+   两片共同点：暗调（亮度 43-45）、低饱和（17-18）、竖屏 24fps、切点总数都只有 8 次左右
+   规律：片子越短切得越快、打得越猛；长片靠连续跟拍，短片靠快切＋高强度
+
+   V4 取值：30 秒取中间偏猛档 —— 12 镜、每镜 2.5 秒、动作强度对齐标杆二
+   闪白：全片只允许一次，放在 17.0 秒（全片 57% 处，对标标杆二的 58%）
+
+V1-V3 各版问题存档（别再犯）
+   V1：开场站着不动 8 秒，30 秒只有 2 个真动作 —— 首帧画成小人站玉台，后面整段都站着
+   V2：误把密度当碎切，排 24 镜 —— 太碎、每次切镜都要重新构图、易崩
+   V3：6 镜长跟拍，方向对但强度偏低（对齐的是 35 秒长片，不是 17 秒猛片）
+   V4：一段两镜，段内切一次（接缝只有 5 次，脸不漂），镜内三连击不停
+
+投喂要点
+   每段首帧用图生视频，模特图锁脸，跨段复用同一 @handle
+   段内只切一次，写法是「镜A … 切至 镜B …」，不要再多切
+   动作之间用"紧接着／不等落地便／随即／被震开后立刻"串，不许停顿
+   场景句每段只留一句，剩下一律给动作
+   第 2-6 段首帧导上一段最后一帧，不要重新开图
+════════════════════════════════════════
+
+一、空间与光源契约
+
+   场景：悬空九重玉台，云海翻涌，天穹悬浮巨大法阵虚影
+   三锚点（全程不换）：左侧断裂蟠龙石柱 → 中央太极玉台 → 右侧倾倒青铜神龛
+   站位：玄青者 A 在画左、绯衣者 B 在画右，全程不越轴
+   唯一换位：B 越过 A 头顶时转高位俯拍做中性重建，落回立刻复位侧面轴线
+   开场态：静止只允许 0.8 秒（两刃顶死一拍），随后立刻爆开
+
+   同框硬规则：每一镜都是双人同框贴身交手，禁止拆成单人镜头
+   影调：暗调，亮度压在中低位，低饱和；全片只允许 17.0 秒那一次闪白
+   景深三层：
+     前景：破损经幡与半透纱幔，压暗并虚化
+     中景：中央太极玉台，汉白玉打磨如镜，倒映人影与柱影
+     远景：层叠仙山剪影被雾气压成剪影，不做清晰模型
+
+   灯光三层：
+     主光：天穹法阵透下的冷白天光柱，光柱中悬浮尘埃缓缓翻滚
+     轮廓光：侧逆光勾出发丝与肩线
+     环境光：玉台冷反射 ＋ 神龛香炉余火的暖橙
+   三色控制：冷白（主）／ 赤金（辅）／ 青灰（点缀），低饱和，禁止第四色
+
+   材质必写：汉白玉、鎏金剥落露铜胎、錾刻云纹、锈蚀青铜、缂丝、织金、做旧铜香炉、湿冷岩面
+
+
+二、角色三重锁 · 服饰材质规格
+
+   @修者A「霜」——玄青织金大袖道袍 · 冷蓝冰霜 · 长剑
+     廓形：大袖宽袍，衣摆垂坠出自然褶皱
+     材质：玄青织锦，暗绣云纹，盘金绣海水江崖
+     工艺：掐丝银冠、鎏金剥落的玉禁步、冷锻钢剑身带细微刮擦
+     动态：玉禁步随动作相击轻响，衣摆在气浪中翻卷拖出残影
+
+   @修者B「燚」——绯色缂丝短打战裙 · 赤金雷火 · 双短刃
+     廓形：短打束袖，腰束革带，便于腾挪
+     材质：绯色缂丝，织金缠枝莲纹
+     工艺：鎏金铜护腕带刮擦痕、赤玉耳坠、做旧铜刃鞘
+     动态：耳坠随转身甩动，革带末端在气浪中抖颤
+
+   跨段复用同一 @handle，首帧用你的模特参考图锁五官
+
+
+三、30 秒镜头表（12 镜 · 每镜 2.5 秒 · 36 个动作）
+
+   第 1 段 0-5 秒
+     镜1 0.0-2.5   中景跟拍：0-0.8 两刃顶死静止一拍；0.8-1.6 横切逼退半步；1.6-2.2 上撩挑起削断衣袖；2.2-2.5 回旋劈落，B 压低架住碎屑喷起
+     镜2 2.5-5.0   切仰拍：B 借断柱一蹬腾起，鎏金碎块飞溅；空中转体双刃交叉下压；A 举剑硬接，接触点爆火花，两人被反震分开
+
+   第 2 段 5-10 秒
+     镜3 5.0-7.5   切中景环绕：落地不停，B 连进四招；A 格挡后退；随即肩撞把 B 顶向神龛
+     镜4 7.5-10.0  切低机位：神龛晃动香炉倾倒青烟被撕碎；B 滚身起身低扫；A 跃过落地踹在护腕上，两人踉跄分开又立刻逼近
+
+   第 3 段 10-15 秒
+     镜5 10.0-12.5 切仰拍转俯拍：B 反蹬越顶，三到四道残像排开；镜头拉高做高位俯拍完成换位；两人分列左右落回，脚底震起环形尘土
+     镜6 12.5-15.0 切中景：A 凝起冰霜巨轮、星尘上升；B 身周缠赤金分叉电弧、指间炸火花；两人沉腰低伏地面尘土被推成环，随即同时暴起
+
+   第 4 段 15-20 秒（全片峰值，唯一一次闪白）
+     镜7 15.0-17.5 切正面跟拍：两人同时推出掌刃，冷蓝与赤金能量柱向正中逼近；16.8 柱体相撞；17.0 闪白半秒、接触点爆出白炽核心，层层波纹辐射
+     镜8 17.5-20.0 切全景：一圈半透明环形冲击波急速外扩，玉台龟裂成片掀起；震屏先大后小；余尘回落，两人被推退，靴底磨出两道深沟
+
+   第 5 段 20-25 秒
+     镜9 20.0-22.5 切手持快跟：余尘未落已再次撞上，刃对刃三次快换每次溅火花；左侧石柱彻底崩塌，鎏金碎块铜屑横飞
+     镜10 22.5-25.0 切近景：A 直刺，B 矮身躲过顺势横掠胸口留一道血线；A 旋身剑柄砸在护腕上两人被震开；神龛轰然倾倒，云海被压出凹坑
+
+   第 6 段 25-30 秒
+     镜11 25.0-27.5 切中景：最后一次对冲，青蓝剑气自左贯右拖长光尾；双短刃同时炸出白炽刀芒留一道直线光痕；两人擦身而过
+     镜12 27.5-30.0 切中景侧逆光：背对背滑停各单膝半跪；颈侧各一道血线，衣摆发丝仍在震颤，银冠坠地滚半圈；灵光衰减星尘沉落，余尘在天光柱中飘落，画面收住
+
+   特效选用（G 卷 22 类）：03 青蓝剑气 ／ 04 刀芒瞬闪 ／ 06 氤氲灵力 ／ 08 电光缠绕 ／ 11 多重残影 ／ 13 环形冲击波 ／ 14 粒子炸裂
+   色相归属：玄青侧全部冷蓝，绯衣侧全部赤金，冲击波与粒子只用冷白，不出现第四色
+
+
+四、第 1 段提示词（0-5 秒 · 2 镜）
+
+【中文】
+镜1：中景手持跟拍，悬空玉台之上两人已贴身交手，玄青织金大袖道袍、掐丝银冠的修者一剑下压，绯色缂丝短打、鎏金铜护腕的修者双短刃交叉架住，两刃顶死静止一拍，尘埃在冷白天光柱中翻滚。紧接着玄青者横切逼退对方半步、鞋底擦地；不等站稳便上撩挑起，一条衣袖被剑气削断飘落；随即回旋劈落，绯衣者压低架住，汉白玉碎屑从刃下喷起。切至镜2：仰拍，绯衣者借左侧断裂的蟠龙石柱一蹬腾起，鎏金剥落的碎块与铜屑飞溅，空中转体双刃交叉下压，玄青者举剑硬接，接触点爆出火花，两人被反震分开半步。双人始终同框，不停顿不摆姿势，材质细节清晰，暗调低饱和，三色控制，电影级 3D 国漫，4K，9:16 竖屏，无背景音乐，无字幕
+【EN】
+Shot1: medium handheld tracking, on a suspended jade terrace the two are already locked together, the dark-cyan brocade cultivator with filigree silver crown pressing down with her sword, the crimson kesi one with gilded bronze bracers cross-blocking with twin short blades, weapons jammed and still for one beat, dust drifting through the cold-white shaft of light. Then a horizontal cut forcing her back half a step, sole scraping stone; before she settles, a rising slash that shears a strip off her sleeve; immediately a spinning overhead drop, she blocks low, marble chips spraying from under the blade. Cut to Shot2: low angle, the crimson one kicks off the broken dragon pillar and launches up, flaking gilding and bronze dust spraying, twisting in mid-air and driving both blades down in a cross, the cyan one raising her sword to meet it, sparks bursting at contact, both knocked half a step apart. both always in frame, no pause, no pose, crisp material detail, dark low-key, low saturation, three-color palette, cinematic 3D anime, 4K, 9:16 vertical --no bgm subtitle
+
+
+五、第 2 段提示词（5-10 秒 · 2 镜）
+
+【中文】
+镜3：中景环绕跟拍，落地不停，绯衣者连进四招，玄青者格挡后退、护腕蹭出刮擦痕，随即以肩撞将对方顶向右侧倾倒的青铜神龛，神龛被撞得晃动。切至镜4：低机位，香炉倾倒滚落、一线青烟被气浪撕碎，绯衣者滚身避开起身一记低扫，玄青者跃过、落地一脚踹在对方护腕上，两人踉跄分开又立刻重新逼近，衣摆被速度甩开。双人始终同框，不停顿不摆姿势，材质细节清晰，金属有氧化与磨损痕迹，暗调低饱和，三色控制，电影级 3D 国漫，4K，9:16 竖屏，无背景音乐，无字幕
+【EN】
+Shot3: medium circling follow, landing without pause, the crimson one chains four strikes, the cyan one parrying and giving ground, bracer scraping sparks, then answers with a shoulder check that slams her into the toppled bronze shrine, the shrine rocking. Cut to Shot4: low angle, the censer topples and rolls, its thread of smoke torn apart by the blast, she rolls clear and comes up with a low sweep, the cyan one leaps it, lands and drives a kick into her bracer, both stumbling apart then closing in again at once, robes whipped open by speed. both always in frame, no pause, no pose, crisp material detail, oxidized worn metal, dark low-key, low saturation, three-color palette, cinematic 3D anime, 4K, 9:16 vertical --no bgm subtitle
+
+
+六、第 3 段提示词（10-15 秒 · 2 镜）
+
+【中文】
+镜5：仰拍，绯衣者反蹬腾身越过对方头顶，三到四道渐次淡化的半透明残像沿轨迹排开，镜头随之拉高转为高位俯拍完成换位，两人分列画左画右落回玉台、脚底震起环形尘土，镜头立刻落回侧面轴线。切至镜6：中景，玄青者周身凝起冰霜巨轮、淡青灵光浮起、少量星尘如碎雪缓缓上升，薄雾贴着衣袂流动；绯衣者身周缠上赤金细密分叉电弧、指间电流跳跃炸出细小火花，脚下空气被压出涟漪；两人同时沉腰低伏，衣袍鼓起，地面尘土被推成环向外扩散，随即同时暴起向前。双人始终同框，特效有明确来源与方向，暗调低饱和，三色控制，体积光，电影级 3D 国漫，4K，9:16 竖屏，无背景音乐，无字幕
+【EN】
+Shot5: low angle, the crimson one kicks off and vaults over her opponent's head, three to four fading translucent afterimages strung along her path, the camera rising with her into a high overhead view to re-establish, both landing apart on the left and right of frame with a ring of dust bursting under their feet, camera settling back onto the side axis. Cut to Shot6: medium, a giant frost wheel condensing around the cyan one, faint cyan spirit halo rising, a few slow starlight particles drifting up like snow, thin mist flowing along her robes; crimson-gold finely branched lightning arcs coiling around the crimson one, current leaping between her fingers with tiny sparks, air rippling beneath her; both sink into low stances, robes swelling, floor dust pushed outward in a ring, then surge forward together. both always in frame, effects with clear source and direction, dark low-key, low saturation, three-color palette, volumetric light, cinematic 3D anime, 4K, 9:16 vertical --no bgm subtitle
+
+
+七、第 4 段提示词（15-20 秒 · 2 镜 · 全片唯一闪白）
+
+【中文】
+镜7：正面跟拍，两人同时推出掌刃，冷蓝与赤金两道能量柱从画面两侧向正中逼近，柱体内部翻涌、边缘电离出细碎火花，地面尘土被推向两侧；柱体相撞的瞬间画面闪白半秒，接触点爆出白炽核心，层层高能波纹向外辐射，光点疏密不均近大远小地四散飞溅。切至镜8：全景，一圈半透明环形冲击波急速外扩，所过之处空气扭曲，汉白玉台面龟裂、碎石成片掀起，天穹法阵虚影震颤，尘土被掀起成环状翻卷；摄像机剧烈抖动幅度先大后小，余尘回落画面回稳，两人顶着余波被一步步推退，靴底在石面磨出两道深沟。双人始终同框，暗调低饱和，三色控制，体积光，电影级布光，电影级 3D 国漫，4K，9:16 竖屏，无背景音乐，无字幕
+【EN】
+Shot7: head-on tracking, both thrust their palms forward, a cold-blue beam and a crimson-gold beam closing toward dead center from either side, churning inside, edges ionized into fine sparks, floor dust pushed outward both ways; the instant they collide the frame flashes white for half a second, a white-hot core blooming at contact, layers of high-energy ripples radiating out, light motes scattering in uneven clusters, near large far small. Cut to Shot8: wide, a translucent ring shockwave roaring outward, air distorting in its path, the marble cracking and slabs blasted loose in sheets, the vast array above shuddering, dust lifted into an expanding ring; camera shudders violently large to small then steadies as dust settles, both pushed back step by step by the afterwave, boots grinding two deep grooves into the stone. both always in frame, dark low-key, low saturation, three-color palette, volumetric light, cinematic lighting, cinematic 3D anime, 4K, 9:16 vertical --no bgm subtitle
+
+
+八、第 5 段提示词（20-25 秒 · 2 镜）
+
+【中文】
+镜9：手持快速跟拍，余尘未落两人已再次撞上，刃对刃三次快换，每一次格挡都溅出火花，衣袖被撕开口子、发丝被速度甩开；左侧蟠龙石柱彻底崩塌，鎏金碎块与铜屑横飞。切至镜10：近景，玄青者直刺，绯衣者矮身躲过顺势横掠胸口，锁骨下方浮现一道细血线；玄青者随即旋身以剑柄砸在对方护腕上，两人被反震分开，破损衣摆仍在飘；青铜神龛轰然倾倒，云海被气浪压出一个凹坑。双人始终同框，血线只一道，材质细节清晰，暗调低饱和，三色控制，电影级 3D 国漫，4K，9:16 竖屏，无背景音乐，无字幕
+【EN】
+Shot9: fast handheld follow, before the dust settles they clash again, blade to blade in three rapid exchanges, every parry throwing sparks, a sleeve torn open, hair whipped loose by speed; the coiled-dragon pillar collapses completely, gilded shards and bronze dust flying sideways. Cut to Shot10: close, the cyan one lunges straight in, the crimson one ducks under and slashes across the chest, a thin line of blood appearing below the collarbone; the cyan one spins and slams her pommel onto the bracer, both knocked apart, torn robes still drifting; the bronze shrine topples with a roar, the sea of clouds punched into a crater. both always in frame, single line of blood only, crisp material detail, dark low-key, low saturation, three-color palette, cinematic 3D anime, 4K, 9:16 vertical --no bgm subtitle
+
+
+九、第 6 段提示词（25-30 秒 · 2 镜）
+
+【中文】
+镜11：中景，最后一次对冲，一道月牙形青蓝剑气自左贯向右拖出细长光尾，绯衣者双短刃同时炸出白炽刀芒、瞬间闪亮后迅速收敛、刃口留下一道笔直光痕，两人擦身而过。切至镜12：中景侧逆光，两人背对背向两侧滑停数步各自单膝半跪，颈侧各现一道血线，破损衣摆与散乱发丝仍在震颤，掐丝银冠坠落在地滚出半圈；周身灵光衰减，星尘缓缓沉落，余尘在冷白天光柱中飘落，侧逆光勾出发丝与肩线，画面收住。全程不摆姿势，以滑停、震颤、血线、余波收尾，双人始终同框，材质细节清晰，织物褶皱自然，暗调低饱和，三色控制，电影级布光，电影级 3D 国漫，4K，9:16 竖屏，无背景音乐，无字幕
+【EN】
+Shot11: medium, one final head-on clash, a crescent cyan-blue sword qi cutting left to right with a long light trail, the twin short blades bursting with a white-hot blade flare that flashes and collapses at once, leaving a straight light mark along the edge, their bodies passing through each other. Cut to Shot12: medium, rim light, they slide several steps apart back to back and drop to one knee each, a single line of blood at each neck, torn robes and loosened hair still trembling, the filigree crown hitting the ground and rolling half a turn; their spirit halos fade, starlight particles settling, lingering dust drifting down through the cold-white shaft, rim light tracing hair and shoulders, frame holds. no pose, ending on slide-stop, tremor, blood line and afterwave, both always in frame, crisp material detail, natural fabric folds, dark low-key, low saturation, three-color palette, cinematic lighting, cinematic 3D anime, 4K, 9:16 vertical --no bgm subtitle
+
+
+十、首帧生图提示词（关键：首帧必须已经在打）
+
+【第 1 段首帧 · 中文】
+悬空九重玉台之上，两名修者已在中央贴身交手：玄青织金大袖道袍的修者一剑下压、掐丝银冠与玉禁步清晰可见，绯色缂丝短打战裙的修者双短刃交叉上架格挡、鎏金铜护腕带刮擦痕、赤玉耳坠，两兵接触点已经咬死、火星将起未起，衣袍被气浪压出褶皱。背景天穹悬浮巨大法阵虚影透下一道冷白天光柱，光柱中尘埃翻滚，玉台刻满符文阵纹泛起微光，左侧断裂蟠龙石柱鎏金剥落露出铜胎，右侧倾倒的锈蚀青铜神龛升起一线青烟，前景破损经幡与纱幔压暗虚化，远景层叠仙山被雾气压成剪影。中景构图，两人同框、处于顶死瞬间，暗调，材质细节清晰，织物褶皱自然，金属有氧化与磨损痕迹，三层景深分离，浅景深，低饱和，三色控制，电影级布光，电影级 3D 国漫，4K，9:16 竖屏
+【第 1 段首帧 · EN】
+On a suspended nine-tier jade terrace, two cultivators already locked in close combat at center: a dark-cyan gold-threaded brocade cultivator pressing down with a long sword, filigree silver crown and jade pendants visible; a crimson kesi silk one cross-blocking with twin short blades, scratched gilded bronze bracers, red-jade earrings; their weapons locked tight with sparks about to burst, robes creased by the pressure wave. Behind them a colossal spirit array glows in the sky, one cold-white shaft of light falling through it with dust motes tumbling inside; rune-carved platform patterns glowing faintly beneath, a broken coiled-dragon pillar with flaking gilding on the left, a toppled patinated bronze shrine trailing a thin line of censer smoke on the right, tattered prayer banners blurred in the foreground, layered sacred mountains compressed into mist silhouettes behind. medium shot, both in frame, caught at the instant of the lock, low-key, crisp material detail, natural fabric folds, oxidized worn metal, three-layer depth separation, shallow depth of field, low saturation, three-color palette, cinematic lighting, cinematic 3D anime, 4K, 9:16 vertical
+
+   第 2-6 段首帧：各自导出上一段最后一帧接续，不要重新开图
+   接缝要求：同机位同光比，能量色相与服饰一致，脸沿用上一帧
+   若首帧图生成了两人站定对望，作废重出——首帧必须已经在打
+
+
+十一、音效设计（无 BGM）
+
+   0.0-0.8  双刃顶死的金属高频尖响，只有风声与衣料
+   0.8      横切命中重击，鞋底擦地
+   1.6      上撩破空，衣袖被削断的轻响
+   2.2      回旋劈落砸中刃身，碎石喷溅
+   2.5      蹬裂石柱的爆裂，空中转体破风
+   4.2      双刃砸中剑身的重击与反震嗡鸣
+   5.0-7.0  四招连击的密集碰撞，护腕刮擦
+   7.0      肩撞入神龛的钝响
+   7.5-8.2  香炉倾倒滚落，铜器磕碰
+   8.6      低扫破空
+   9.4      落地踹击，踉跄脚步
+   10.0-11.2 越顶破风，玉禁步相击的细碎叮当
+   11.4     双脚落台钝响，环形尘土扑地
+   12.5-13.8 冰霜凝结的细密咔响，电流噼啪
+   13.8-15.0 能量攀升的低频嗡鸣，地面被压出涟漪
+   15.0-16.8 两道能量柱逼近的嗡鸣持续攀升
+   17.0     对撞低频爆轰（与闪白同帧）
+   17.5     环形冲击波扩散的呼啸，碎石成片翻卷
+   18.2-20.0 靴底磨石的持续挤压声，衣料被能量压得翻卷
+   20.0-21.6 三次快换的密集碰撞
+   21.6     石柱崩塌的连串巨响
+   22.5     直刺破空
+   23.2     横掠的撕裂声
+   24.0     剑柄砸中护腕的金属闷响
+   24.6     神龛倾倒轰然，云海被压的低频
+   25.0-26.4 最后对冲的衣袂破风，交错撕裂与电流尖响
+   26.4     滑停摩擦
+   27.0     双膝落地闷响
+   27.8     银冠落地滚出半圈的叮当
+   28.4-30.0 风声与余尘飘落，渐远
+
+
+十二、负面词
+
+   双人专属：fused bodies, merged characters, identity swap, morphing between two characters
+   分镜专属：split screen, split panels, side-by-side layout, comic panels, montage grid, more than two shots per clip, rapid flickering cuts
+   静态专属：standing still, frozen pose, two people standing and staring, idle, no motion, slow drifting shot
+   影调专属：bright flat lighting, high key, oversaturated, repeated white flashes, flashing more than once
+   质感专属：cheap plastic look, flat lighting, even lighting, neon rainbow, glossy toy surface, smooth textureless surface, sticker-like effects, empty background, uniform particles
+   特效专属：floating light orbs with no source, glowing blob, glowing dots everywhere, rainbow gradient, plastic glow, speed lines covering the whole frame, more than five afterimages
+   通用：extra limbs, extra fingers, deformed hands, lowres, blurry, plastic skin, over-smoothed face, waxy, watermark, text, logo, subtitle
+
+
+十三、校验清单
+
+   全片 12 镜，每镜 2.5 秒，每段只切一次（段内 2 镜），接缝共 5 次
+   每镜 3 个动作，全片 36 个动作，动作之间用接续词串，不许停顿
+   开场静止只允许 0.8 秒，之后必须一直在动
+   闪白全片只有一次，位置在 17.0 秒
+   每段只有一个静态场景句，其余全给动作
+   每镜写明双人同框贴身交手，明确禁止单人镜头
+   每段 EN 提示词控制在 200 词以内
+   暗调低饱和，亮度压在中低位，不做高调
+   冲击帧与震屏先大后小、随后回稳，三拍齐全
+   环形冲击波全片只出现一次（第 4 段）
+   血线只写一道，终结不摆姿势
+   两人服饰各不少于三层，配饰写明动态
+   三层景深齐全，玉台有倒影，天光柱内配了尘埃介质
+   有"不完美"：鎏金剥落、铜锈、刮擦、褶皱、碎屑
+   三色控制，无第四色
+   首帧图必须是"已经交手"的姿态，不是两人站定
+   无背景音乐，无字幕

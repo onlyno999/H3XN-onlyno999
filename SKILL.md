@@ -31,6 +31,7 @@ description: H3XN 武打短剧生产 Agent（XN＝西瓜＋动作导演的新线
 - 西瓜本体：`~/workspace/xigua-drama-agent`（FastAPI :5678＋React 前端；本 Agent 只用其前半截流水线，不用它的本地 ComfyUI 算力）。
 - 动作导演：技能 `fight-prompt-director`（本机 `~/workspace/skills/fight-prompt-director/`）。
 - 玄幻仙侠导演：技能 `xuanhuan-combat-director`（本机 `~/workspace/skills/xuanhuan-combat-director/`，源仓 lixiaoxiao9888-create/xuanhuan-combat-director V2.6.0）。
+- 打戏工艺规程（包内整合，本包的方法层）：`references/fight_craft.md`（技能 `fight-craft-onlyno999` 的包内整合版，与包外同名技能同源——八包蒸馏的写词七步＋落词八项自检；本包写动作段必过此规程当质检门，深查再回各源包）。
 - 打戏技法知识库（同作者/同批学入，按需查阅、不是组件、不改派发口径）：`seedance-combat-prompt`（二次元打戏：完播率公式、开局冲击、近景对招招式序列化、流派技法与兵器库）、`seedance-high-impact-combat-GFSM`（4–15s 高密度近身：空间三锚、攻防成对、物理闭环）、`ai-spell-impact-lens`（施法冲击帧＋震屏回归两式）、`seedance-fantasy-ultimate-prompt`（九大属性大招库）、`ai-cinematic-shot-craft`（国风漫剧镜头工艺：类型/质感/特效元件/节奏八卷）、`real-combat-director`（真人写实打斗：11 环动力链、防守三态、多人调度）、`short-drama-director`（漫剧老李全流程 V6.9.9：门控剧本、资产锁、机检；其 H3 支线只作格式参考，派发仍走本包出口口径）。
 - 云端出口：RunningHub **workflow** `2110403291422220289`（武打设计专用），端点 `POST /openapi/v2/run/workflow/2110403291422220289`，Standard 实例（`instanceType=default`）。**不是** H3XG 的 2110385615559806978——两条线背后的 API 模型不一样，节点图谱也完全不同（本流 29 节点全在 115–179），严禁互切、混用。
 - 派发：`bin/dispatch_wf.py`（参数化：提示词文件/时长/画幅/种子/图槽/可选音频/输出目录；含上传、轮询与下载，results URL 约 24h 有效、SUCCESS 后立即下载）。
@@ -58,7 +59,8 @@ description: H3XN 武打短剧生产 Agent（XN＝西瓜＋动作导演的新线
 3. **写提示词**：
    - 剧本与分镜走西瓜前半截流水线产出。
    - 动作段：过 `fight-prompt-director` 编排（每轮交锋写全因果链：发起→接触→回应→位移→下一拍接口；角色各自的优势距离与反制策略；镜头职责与轴线写死）。速度与强度按用户当次点名选轴，未点名先按该技能的规矩补问一次速度档。
-   - 玄幻仙侠题材（修真/仙法/神魔/法术对轰）：动作段改由组件三 `xuanhuan-combat-director` 主导结构——三轮攻守骨架＋整秒细切＋收束协议先定，再回组件二补因果链细节；技法细节按需查知识库（大招查 fantasy-ultimate、施法爆发帧查 spell-impact-lens、近景序列化查 combat-prompt/GFSM）。Seedance 向的时间戳/格式习惯只借结构，落词仍按本包 H3 六段式与出口口径。
+   - 玄幻仙侠题材（修真/仙法/神魔/法术对轰）：动作段改由组件三 `xuanhuan-combat-director` 主导结构——三轮攻守骨架＋整秒细切＋收束协议先定，再回组件二补因果链细节；技法细节按需查包内知识库（`references/skills/`，大招查 fantasy-ultimate、施法爆发帧查 spell-impact-lens、近景序列化查 combat-prompt/GFSM）。Seedance 向的时间戳/格式习惯只借结构，落词仍按本包 H3 六段式与出口口径。
+   - **工艺门（整合定版）**：动作段落词前后必过 `references/fight_craft.md` 的写词七步与落词八项自检（定档/骨架/序列化/空间与收束/特效与冲击帧/终结三段式/自检），缺项回炉再派；自检结论随派发档案留痕。
    - 打斗节奏铁律（用户定版）：速度写进提示词成为角色动作本身的迅猛节奏，全程高速一气呵成，绝无慢动作/定格/停顿；不许后期变速凑时长。
    - 角色长相只许引用参考图，不许用文字复述五官；签名造型逐项写死。
 4. **派发前探针**：`bin/probe_step1.py` 确认 803；810 就停下报用户去网页运行一次，不许换出口顶替。
@@ -67,8 +69,8 @@ description: H3XN 武打短剧生产 Agent（XN＝西瓜＋动作导演的新线
 7. **质检门**（自己跑完）：抽帧查脸对卡/造型/场景 1:1/无烧字水印；动作段逐拍核因果链有没有拍出来（漏拍、软打、慢镜都是病）；有对白时 ASR 核台词内容与次数；音频只许原生对白＋现场拟音，检出配乐/旁白＝污染；规格核时长/分辨率/帧率。
 8. **交付**：转码收尾（H.264 High@L4.0、yuv420p、bt709、AAC LC 48kHz、剥元数据、+faststart、尺寸保持云端原生）→ 聊天附件＋Drive「成片」夹链接。
 
-## 打戏技法知识库（2026-10-15 学入，与本文件同册索引）
-写词时按病症取用，只借技法与结构，不借别家的出口与格式口径：
+## 打戏技法知识库（2026-10-15 学入，**已全部整合进本包**）
+今晚学入的打戏技能已全套 vendoring 进本包 `references/skills/`（随包自带、装到别处即齐全；各包同时保留包外独立安装，源头更新时先更新包外本体、再整目录同步覆盖本包副本）：`seedance-combat-prompt`、`seedance-fantasy-ultimate-prompt`、`ai-spell-impact-lens`、`seedance-high-impact-combat-GFSM`、`ai-cinematic-shot-craft`、`real-combat-director`、`short-drama-director`，外加蒸馏规程 `references/fight_craft.md`（包外技能名 fight-craft-onlyno999）。写词时按病症取用，只借技法与结构，不借别家的出口与格式口径：
 - **开局慢热/前 2 秒没接触** → `seedance-combat-prompt` 开局冲击律（1.5s 内攻防接触）＋完播率公式自查。
 - **打斗软、像推拿/相持发呆** → 组件三 `xuanhuan-combat-director` 整秒细切＋瞬发瞬收动词；写实题材查 `real-combat-director` 动力链。
 - **近景对招写成「快速连击」这类空话** → `seedance-combat-prompt` 招式序列化（逐招点名＋落点＋防守反馈）或 GFSM 攻防成对。
@@ -88,7 +90,7 @@ description: H3XN 武打短剧生产 Agent（XN＝西瓜＋动作导演的新线
 
 ## 铁律
 1. 出片只许走 `2110403291422220289`；不许切去 H3XG 的 2110385615559806978 或任何其他出口——每个出口背后的 API 模型不一样。
-2. 三个上游组件保持独立：西瓜本体、fight-prompt-director、xuanhuan-combat-director 各自是独立克隆、各自在线更新，本包不改它们、不把它们并进本包仓库；知识库各包同理，只索引引用。
+2. 三个上游组件保持独立：西瓜本体、fight-prompt-director、xuanhuan-combat-director 各自是独立克隆、各自在线更新，本包不改它们、不把它们并进本包仓库。技法知识库各包是例外（用户 2026-10-15 令全部整合）：全套快照存 `references/skills/` 随包走，但只作技法参考、不升格为组件、不改其内容，更新走「包外本体→整目录同步」单向覆盖。
 3. 每派必先免费探针；探针不过（810）就停，不许先派再说。
 4. 动作段提示词必须过 fight-prompt-director 编排，不许手写简化版应付。
 5. 三视图现成图只直用、不动图；缺什么图补画什么图。

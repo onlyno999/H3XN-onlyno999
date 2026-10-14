@@ -1,0 +1,120 @@
+﻿========================================
+双女修 · 15秒极限激烈对打 提示词 V1
+========================================
+时长：15秒
+用途：剧情正式分镜（宣传号版本另行调整）
+画幅：9:16 竖屏
+风格：电影级 3D 国漫 / 4K / 体积光 / 运动模糊
+全局规则：无背景音乐，无字幕（全局规则，不得违反）
+
+
+========================================
+一、空间契约（双人对打不糊成一团的前提）
+========================================
+
+【三锚点】
+  左侧  残碑
+  中央  对决石台
+  右侧  倾倒经幢
+
+【站位铁律】
+  女修A 在画左，女修B 在画右，全程不越轴。
+  唯一一次换位：B 越过 A 头顶时，镜头短暂转高位俯拍做中性重建，
+  这是全场唯一合法的轴线重建，落回后立刻回到侧面轴线。
+
+【角色区分三重锁】（防糊成一团 / 防换脸）
+  女修A：白衣银纹 · 冷蓝冰霜 · 单长剑
+  女修B：绯衣赤纹 · 赤金雷火 · 双短刃
+
+【@handle】
+  @女修A   首帧使用白衣角色参考图，锁五官防漂移
+  @女修B   首帧使用绯衣角色参考图，锁五官防漂移
+  两条 handle 跨镜复用，不得混用
+
+
+========================================
+二、时间轴节拍（15秒）
+========================================
+
+0.0 - 2.5秒   开场即在中央石台贴身撞上，双刃顶死，接触点爆出冷蓝与赤金火花，脚下石面炸裂、碎石向外弹开
+2.5 - 4.5秒   A 抢中线连斩三刀：横切逼守 / 上撩挑起 / 回旋劈落
+4.5 - 6.0秒   B 贴身侧闪抬刃格挡，前臂被震开，后半步卸力，借左侧残碑一蹬回到中央
+6.0 - 7.5秒   B 被压制至右侧倾倒经幢前，反蹬经幢腾身越过 A 头顶换位，镜头短暂高位俯视后落回侧面轴线
+7.5 - 9.0秒   A 踩碎地面裂缝借力反冲，两人半空再度交错，A 周身凝起冰霜巨轮，B 身周缠上赤色雷弧
+9.0 - 10.2秒  两人同时向两侧震开半步各自聚势，随即双掌同推，全屏白光炸开，冷蓝与赤金两道能量柱在正中死死对撞，环形冲击波扩散，崖面龟裂、碎石成片掀起
+10.2 - 10.5秒 摄像机剧烈抖动，幅度先大后小，缓慢回归平稳，余尘缓落
+10.5 - 12.5秒 两人各自踩碎脚下碎石最后一次全力对冲，冷蓝剑气与赤金雷刃在画面中央同时贯穿对方，身影交错而过
+12.5 - 15.0秒 两人背对背向两侧滑停数步，各自单膝半跪，颈侧与肩头各有一道血线，破损衣摆与碎石仍在震颤回落，两人之间地面最后炸开一圈扩散冲击波，侧逆光勾出发丝与肩线轮廓，余尘在光中飘落
+
+
+========================================
+三、中文提示词（直接投喂）
+========================================
+
+断崖石台，两名女修正面死斗。白衣冰修持长剑立于画左，绯衣雷修持双短刃立于画右，开场即已在中央石台贴身撞上，两刃顶死，接触点爆出冷蓝与赤金对冲的火花，脚下石面炸裂、碎石向外弹开；白衣抢中线连斩三刀，横切逼守、上撩挑起、回旋劈落，绯衣贴身侧闪抬刃格挡，前臂被震开后半步卸力，借左侧残碑一蹬回到中央；绯衣被压制至右侧倾倒的经幢前，反蹬经幢腾身越过白衣头顶换位，镜头短暂转为高位俯视再落回侧面轴线；白衣踩碎地面裂缝借力反冲，两人在半空再度交错，白衣周身凝起冰霜巨轮，绯衣身周缠上赤色雷弧；两人同时向两侧震开半步各自凝聚力量，随即双人同时将掌刃推出，全屏白光炸开，冷蓝与赤金两道能量柱在正中狠狠对撞，环形冲击波向外扩散，崖面龟裂、碎石成片被掀起，摄像机剧烈抖动后缓慢回归平稳，余尘缓落；两人各自踩碎脚下碎石最后一次全力对冲，冷蓝剑气与赤金雷刃在画面中央同时贯穿对方，身影交错而过；两人背对背向两侧滑停数步，各自单膝半跪，颈侧与肩头各有一道血线，破损衣摆与碎石仍在震颤回落，两人之间的地面最后炸开一圈扩散冲击波，侧逆光勾出发丝与肩线轮廓，电影级 3D 国漫，4K，体积光，运动模糊，9:16 竖屏，无背景音乐，无字幕
+
+
+========================================
+四、EN 提示词（Seedance 直投）
+========================================
+
+On a cliff-edge stone platform, two female cultivators fight head-on. The white-robed frost cultivator wields a long sword on the left of frame; the crimson-robed lightning cultivator wields twin short blades on the right. They are already locked in close combat at the central platform when the shot begins, their weapons jammed against each other, cold-blue and crimson-gold sparks bursting at the contact point, the stone beneath shattering with debris flying outward; white seizes the center line with a three-move chain, a horizontal cut forcing the guard, a rising slash, then a spinning overhead drop; crimson weaves aside at close range and blocks, her forearm knocked open, taking half a step to absorb the force, kicking off the broken stele on the left back to center; crimson is driven to the fallen stone pillar on the right, kicks off it and vaults over white's head to swap positions, the camera briefly shifting to a high overhead before settling back onto the side axis; white stomps the cracked ground and recoils upward, the two cross again mid-air, a giant frost wheel forming around white while crimson lightning arcs coil around crimson; both blast half a step apart gathering power, then thrust forward together, full-screen white flash, cold-blue and crimson-gold energy beams slamming into each other dead center, concentric shockwave ring expanding, cliff face cracking, slabs of stone blasted loose, camera violently shakes large-to-small then slowly stabilizes, dust settling; each crushing the debris underfoot they charge for one final head-on clash, cold-blue blade energy and crimson-gold lightning blade piercing each other at frame center, their bodies crossing past one another; they slide several steps apart back to back and drop to one knee each, a line of blood at each of their necks and shoulders, torn robes and debris still trembling and settling, a final expanding shockwave bursting across the ground between them, rim light on hair and shoulders, cinematic 3D anime, 4K, volumetric light, motion blur, 9:16 vertical --no bgm subtitle
+
+
+========================================
+五、音效设计（无背景音乐）
+========================================
+
+0.0秒    双刃顶死的金属高频尖响
+2.5秒    连续三记剑气碰撞，一声紧过一声
+4.5秒    格挡金属闷响 + 蹬碑炸石
+6.0秒    越顶破风，呼啸自头顶掠过
+7.5秒    半空能量嗡鸣持续攀升
+9.0秒    对撞低频爆轰（与震屏同帧）
+10.2秒   崖面崩塌轰响
+10.5秒   交错而过的撕裂声
+12.5秒   双膝落地闷响
+13.5秒   余波扩散，低频渐远至静
+
+说明：全部为环境音与同期声，不得叠加任何背景音乐。
+
+
+========================================
+六、负面词（双人专属，必加）
+========================================
+
+fused bodies, merged characters, identity swap, morphing between two characters, extra limbs, extra fingers, deformed hands, lowres, blurry, plastic skin, over-smoothed face, waxy, oversaturated, watermark, text, logo, subtitle
+
+
+========================================
+七、拆镜备选（如单镜信息过密）
+========================================
+
+建议拆成两段，接缝连贯要点：A 段尾帧 = B 段首帧，同机位同光比，同一组能量色相与光比。
+
+A 段  8秒   开场双刃顶死 → 连斩三刀 → 借碑回中 → 越顶换位 → 半空交错时冰霜巨轮与雷弧同时亮起（止于两人各自聚势、尚未推出之前）
+B 段  7秒   双人同时推出 → 闪白 → 双色能量柱对撞 → 冲击波 → 震屏先大后小 → 回稳 → 最后一次对冲 → 贯穿交错 → 背对背滑停单膝半跪 → 余波扩散
+
+跨段一致性：两段使用同一对 @女修A / @女修B handle，服装与能量色不得在接缝处变化。
+
+
+========================================
+八、校验清单
+========================================
+
+[√] 开场即在打，不对视、不热身、不摆架势
+[√] 三锚点齐备，换位仅一次且走高位中性重建
+[√] 压迫链三招内完成，未拖沓
+[√] 每一次攻击都有对应反馈：格挡 / 震开 / 卸力 / 后退
+[√] 能量轨迹不遮蔽关键接触点
+[√] 终结不以摆 pose 结束：滑停 + 震颤 + 血线 + 余波冲击波
+[√] 角色三重区分：服装 / 能量色 / 武器 全部不同
+[√] 冲击帧 + 震屏先大后小 + 回稳，三拍子完整
+[√] 9:16 竖屏，无左右并排构图
+[√] 无背景音乐，无字幕
+
+========================================
+技法来源：06号《AI漫剧爆款镜头语言库》（15秒节拍 + 类型7 高速武打 + 类型5 施法爆发三拍子）
+        × seedance-high-impact-combat-GFSM（三锚点 + A左B右不越轴 + 六段式动作脊柱）
+生成时间：2026-09-21
+========================================

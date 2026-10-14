@@ -1,0 +1,96 @@
+﻿修仙打斗 · 女修 15 秒 提示词（激烈版 / 加强版）
+==================================================
+生成时间：2026-09-21
+适用：Seedance 2.0 / Seedance Mini（9:16 竖屏）
+依据：知识库 06-AI漫剧爆款镜头语言库（类型 7 高速武打 + 类型 5 施法爆发 + 类型 3 战损回眸）
+全局规则：无背景音乐、无字幕；首帧用模特参考图锁五官
+说明：本文件含两个版本 —— 版本一（标准激烈版）、版本二（加强版·推荐，含时间凝滞 / 战损 / 双人对波三重加码）
+
+
+==================================================
+版本一｜标准激烈版（15 秒单镜）
+==================================================
+
+【时间轴节拍】
+0.0 - 2.0s   贴地仰拍蓄势：女修悬空，剑出鞘流光，脚下法阵亮起
+2.0 - 7.0s   高速缠斗：环绕跟拍，空翻连斩，月牙剑气震飞敌影
+7.0 - 7.5s   冲击帧：双掌结印前推，全屏闪白 + 环形冲击波 + 地面龟裂
+7.5 - 7.8s   震屏：摄像机剧烈抖动，幅度先大后小
+7.8 - 9.0s   回归平稳：烟尘缓落，画面回稳
+9.0 - 12.0s  终结一击：空中翻身下劈，巨型剑气纵贯画面劈开敌阵
+12.0 - 15.0s 收势：侧身落地甩剑，冷冽回眸，余尘飘落
+
+【中文提示词】
+极低机位贴地仰拍，修仙女修悬立于半空，黑发高束、衣袂在气浪中向后撕扯，长剑出鞘剑身流光点亮，脚下法阵符文由暗转亮，镜头猛然上摇；她瞬间加速冲入敌阵，镜头高速环绕跟随，连续空翻劈斩，每一剑甩出月牙形剑气斩波，敌影被斩浪接连震飞溃散，衣带与发丝拖出残影，碎石与尘土炸开，高速运动模糊；她双掌合拢结印前推，全屏白光炸开，环形冲击波向外扩散，地面龟裂，碎石尘土被气浪掀起，摄像机剧烈抖动后缓慢回归平稳，余尘缓落；她空中翻身一记下劈，巨型剑气纵贯整个画面将敌阵劈开；镜头缓慢回稳，她侧身落地甩剑收势，冷冽回眸，侧逆光勾出发丝与肩线轮廓，余尘在光中飘落，电影级 3D 国漫，4K，体积光，运动模糊，9:16 竖屏，无背景音乐，无字幕
+
+【EN 提示词】
+Extreme low ground-level shot, a female cultivator hovers in mid-air, black hair tied high, robes torn backward by the pressure wave, long sword drawn with flowing light on the blade, runes of the magic circle beneath her brightening, camera whips upward; she accelerates instantly into the enemy ranks, fast orbit camera following, continuous aerial flips and slashes, each swing throwing crescent sword-energy waves, enemy figures blown away one after another, ribbons and hair trailing motion-blur ghosts, gravel and dust bursting, high-speed motion blur; she presses her palms together forming a seal and thrusts forward, full-screen white flash, concentric shockwave ring expanding, ground cracking, debris blasted upward, camera violently shakes large-to-small then slowly stabilizes, dust settling; she flips mid-air and slashes downward, a giant blade of energy splits the enemy formation across the frame; camera slowly stabilizes, she lands sideways and flicks her sword to close the stance, cold glance back, rim light on hair and shoulders, lingering dust drifting in the light, cinematic 3D anime, 4K, volumetric light, motion blur, 9:16 vertical --no bgm subtitle
+
+
+==================================================
+版本二｜加强版（推荐）— 三重加码
+==================================================
+加码 1 · 时间凝滞：敌群与飞溅碎石在半空悬停，女修穿行其间连斩，时间恢复瞬间敌群同帧溃散
+加码 2 · 战损美学：衣袖破碎、发丝散乱、嘴角一道血线，抬眼冷冽一笑
+加码 3 · 双人对波：冷蓝 vs 赤金能量柱正面对撞，冲击环层层炸开，冷蓝压制吞没赤金
+
+【时间轴节拍】
+0.0 - 1.5s   蓄势：极低机位贴地仰拍，悬空，剑出鞘流光，脚下法阵亮起
+1.5 - 5.5s   缠斗 + 时间凝滞：冲入敌阵，敌影与碎石悬停半空，穿行连斩，时间恢复后敌群同帧炸散
+5.5 - 7.0s   施法爆发：结印前推 → 闪白 + 环形冲击波 + 龟裂 → 震屏（先大后小）→ 回稳
+7.0 - 10.5s  双人对波：敌方强者推出赤金能量柱，女修冷蓝能量柱迎面撞击，冲击环层层外扩，冷蓝吞没赤金
+10.5 - 13.0s 战损：衣袖破碎发丝散乱，嘴角血线，单膝落地，缓缓抬眼冷冽一笑
+13.0 - 15.0s 收势：镜头缓慢回稳，余尘在光中飘落，侧逆光勾轮廓
+
+【中文提示词（加强版）】
+极低机位贴地仰拍，修仙女修悬立于半空，黑发高束、衣袂在气浪中向后撕扯，长剑出鞘剑身流光点亮，脚下法阵符文由暗转亮；她瞬间加速冲入敌阵，镜头高速环绕跟随，此时时间凝滞——漫天碎石、尘埃与敌影全部悬停在半空，她穿行其间连续劈斩，剑光划过之处留下凝滞的斩痕，随后时间骤然恢复，敌群在同一瞬间向外溃散炸开，衣带发丝拖出残影，高速运动模糊；她双掌合拢结印前推，全屏白光炸开，环形冲击波向外扩散，地面龟裂，碎石尘土被气浪掀起，摄像机剧烈抖动后缓慢回归平稳，余尘缓落；敌方强者迎面推出赤金色能量柱，女修冷蓝色能量柱迎面相撞，两道能量柱在对撞点剧烈撕扯，冲击环一圈圈向外炸开，冷蓝逐渐压制并吞没赤金；她衣袖破碎、发丝散乱、嘴角一道血线，单膝落地，缓缓抬眼冷冽一笑；镜头缓慢回稳，余尘在光中飘落，侧逆光勾出发丝与肩线轮廓，电影级 3D 国漫，4K，体积光，运动模糊，9:16 竖屏，无背景音乐，无字幕
+
+【EN 提示词（加强版）】
+Extreme low ground-level shot, a female cultivator hovers in mid-air, black hair tied high, robes torn backward by the pressure wave, long sword drawn with flowing light on the blade, runes of the magic circle beneath brightening; she accelerates instantly into the enemy ranks, fast orbit camera following, time freezes — shattered rock, dust and enemy figures all suspended motionless in mid-air, she weaves between them slashing continuously leaving frozen cut trails, then time snaps back, the enemy ranks burst outward all at once, ribbons and hair trailing motion-blur ghosts, high-speed motion blur; she presses her palms together forming a seal and thrusts forward, full-screen white flash, concentric shockwave ring expanding, ground cracking, debris blasted upward, camera violently shakes large-to-small then slowly stabilizes, dust settling; an enemy master thrusts a crimson-gold energy beam at her, the cultivator answers with a cold-blue energy beam, the two beams grind against each other at the collision point, shockwave rings bursting outward one after another, cold blue gradually overpowering and swallowing the crimson-gold; her sleeves shredded, hair disheveled, a trace of blood at the corner of her lips, she drops to one knee, slowly raises her eyes and smiles coldly; camera slowly stabilizes, lingering dust drifting in the light, rim light on hair and shoulders, cinematic 3D anime, 4K, volumetric light, motion blur, 9:16 vertical --no bgm subtitle
+
+
+==================================================
+拆镜方案（加强版信息密度高，建议拆三段）
+==================================================
+A 段 5s：蓄势 + 时间凝滞缠斗        尾帧＝敌群同帧炸散前一瞬，机位在环绕最低点
+B 段 5s：施法爆发 + 双人对波        首帧＝A 尾帧（同机位、同光比、冷调侧逆光）
+C 段 5s：战损落地 + 收势回稳        首帧＝B 尾帧（对波结束、冷蓝吞没赤金后帧）
+
+拼接要求：A 尾帧＝B 首帧、B 尾帧＝C 首帧，同机位、同光比、同轴不越轴；
+15 秒标准版如需拆分，按 8s（缠斗止）+ 7s（爆发到收势）两段。
+
+
+==================================================
+其余字段
+==================================================
+
+【@handle / 首帧】
+@女修 —— 首帧使用模特参考图锁定五官，跨镜复用同一 handle 防止人脸漂移
+
+【音效（无 BGM，仅环境音与同期声）】
+蓄势：衣袂破风、剑出鞘金属颤鸣、法阵符文低鸣
+缠斗：剑气斩空声、气浪爆响、碎石飞溅、时间凝滞处环境音骤静
+爆发：低频轰击（与震屏同帧）、冲击波呼啸、地面碎裂
+对波：两道能量柱持续撕扯的嗡鸣、冲击环炸开的连环爆响
+战损：衣料撕裂、单膝落地闷响
+收势：余尘细响、剑尖破空、风声渐远
+
+【负面词】
+lowres, blurry, extra fingers, deformed hands, extra limbs, bad anatomy, plastic skin, over-smoothed face, waxy, oversaturated, watermark, text, logo, subtitle, wide shot composed side by side, two subjects horizontal layout
+
+【转仿真人写实路线】
+把"电影级 3D 国漫 / cinematic 3D anime"替换为：
+photoreal cinematic, 35mm film grain, low saturation, slight grain
+其余提示词不动。
+
+
+==================================================
+交付前校验清单
+==================================================
+[已核] 五要素齐全：景别 + 运镜 + 灯光 + 动作 + 氛围
+[已核] 中 / EN 双语齐全，末尾挂 --no bgm subtitle
+[已核] 施法类含 冲击帧 + 震屏（幅度先大后小）+ 回归平稳 三拍子
+[已核] 负面词已带（去塑料感 / 防多指 / 防左右并排）
+[已核] 9:16 竖屏，无左右并排构图，轴线固定
+[已核] 无背景音乐、无字幕声明已加
+[已核] 首帧锁定 @女修（模特参考图）

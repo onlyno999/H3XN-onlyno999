@@ -1,0 +1,282 @@
+﻿========================================
+10 条爆款镜头 · 逐条提示词（逆向还原）V1
+========================================
+来源：微信缓存抖音 AIGC 国风/仙侠视频 10 条（2026-09 目录）
+生成：2026-09-21
+格式：每条含【画面还原】【中文提示词】【EN 提示词】【关键点】
+全局规则：无背景音乐，无字幕（不得违反）
+默认画幅：9:16 竖屏（原片为横屏者另注）
+========================================
+
+
+────────────────────────────────────────
+【01】云海仙桥 · 隔桥对望
+来源：dba8620163b7c55ee48ea1a552c0d019
+────────────────────────────────────────
+
+画面还原：
+  日出金光穿透云层，一座石拱桥横跨在翻涌的云海之上，
+  桥的两端各立一道人影，遥相对望，衣袂被高空气流吹起。
+  远景山巅露出层叠的寺塔与楼阁剪影，云层被金光照成暖橙色。
+
+中文提示词：
+  极高远景俯瞰云海，日出金光穿透云层，一座古老石拱桥横跨在翻涌的云海之上，桥两端各立一道人影遥相对望，衣袂被高空气流吹起，桥下水汽如潮翻涌，远景山巅露出层叠寺塔楼阁剪影，金色体积光穿透云隙洒落人间，镜头缓慢横移，电影级 3D 国漫，4K，体积光，9:16 竖屏，无背景音乐，无字幕
+
+EN 提示词：
+  Extreme wide aerial shot over a sea of clouds, golden sunrise light piercing through the cloud layer, an ancient stone arch bridge spanning the surging clouds, two figures standing at either end of the bridge gazing at each other from afar, robes lifted by high-altitude wind, mist churning beneath the bridge like tide, layered silhouettes of temples and towers emerging from the distant peak, golden volumetric light falling through the cloud gaps, slow lateral tracking camera, cinematic 3D anime, 4K, volumetric light, 9:16 vertical --no bgm subtitle
+
+关键点：
+  · 原片是「左右并排」构图，横屏 16:9 更还原。
+  · 改竖屏时把两人改成「一近一远」前后景深关系，避免并排被裁掉。
+  · 情绪功能：世界观铺垫 / 定调空镜，适合开场第一镜。
+  · 可替换变量：云海 → 花海 / 星河 / 血色战场。
+
+
+────────────────────────────────────────
+【02】战损回眸 · 带血 wink
+来源：7c3025116fcc5e870e60927b4651f151
+────────────────────────────────────────
+
+画面还原：
+  女子侧脸近景，深色长发，浅色纱衣，嘴角有一道未干的血迹，
+  却带着笑，眼睛轻轻眨了一下。背景是冷蓝色流动的水波纹能量。
+
+中文提示词：
+  近景特写，女子缓缓侧转回眸，嘴角有一道未干的血迹，却微微笑着轻轻眨了一下眼，额前碎发被气流吹乱，几缕发丝贴在脸颊，背景是冷蓝色流动的水波纹能量，侧逆光让半边脸明亮半边沉入阴影，眼神里是倔强与释然，镜头轻微手持晃动，浅景深，电影级 3D 国漫，4K，9:16 竖屏，无背景音乐，无字幕
+
+EN 提示词：
+  Close-up, a woman slowly turns to glance back, a fresh line of blood at the corner of her mouth, yet she smiles faintly and gives a slight wink, loose strands of hair blown across her forehead, a few clinging to her cheek, background of flowing cold-blue water-ripple energy, side-back rim light splitting her face into bright and shadow, stubbornness and relief in her eyes, slight handheld camera drift, shallow depth of field, cinematic 3D anime, 4K, 9:16 vertical --no bgm subtitle
+
+关键点：
+  · 全片最强「记忆点镜头」，宣传号封面首选帧。
+  · 核心不是美貌，是「伤 + 笑」的反差：血要淡，笑要轻，眨眼要慢。
+  · 血线一笔即可，多了变恐怖片；背景水波纹能量是情绪外化，别删。
+  · 可替换变量：wink → 无声落泪 / 咬牙绷紧 / 闭眼释然。
+
+
+────────────────────────────────────────
+【03】雪原战旗 · 群像剪影
+来源：f468dd0443132df728be787918f4c643
+────────────────────────────────────────
+
+画面还原：
+  冰原雪面，浓雾弥漫。画面中央一面破损的战旗斜插在冰面上，
+  旗面撕裂随风颤动。四周分散站着数名持枪武将的剪影，
+  长枪斜指地面，人物被雾气压成深色剪影，冰面映出倒影。
+
+中文提示词：
+  冰原雪面极远景，浓雾弥漫，画面中央一面破损的战旗斜插在冰面上随风颤动，旗面撕裂翻动，四周分散站立数名持枪武将剪影，长枪斜指地面，人物被雾气压成深色剪影，地面冰面反光映出人影，镜头缓慢向前推进，冷灰色调，高对比剪影，电影级 3D 国漫，4K，9:16 竖屏，无背景音乐，无字幕
+
+EN 提示词：
+  Extreme wide shot of a frozen snow plain, thick mist, a torn war banner standing slanted in the ice at frame center, fluttering and shaking in the wind, its fabric ripped and snapping, several spearman silhouettes standing scattered around it, long spears angled toward the ground, figures crushed into dark silhouettes by the mist, their reflections on the icy surface, slow dolly-in, cold grey palette, high-contrast silhouettes, cinematic 3D anime, 4K, 9:16 vertical --no bgm subtitle
+
+关键点：
+  · 情绪功能：战前压抑 / 群像规模感，适合大战前一镜。
+  · 「旗帜」是视觉中心与叙事符号，必须比人清晰一档。
+  · 人物只给剪影不给脸，反而更史诗、更省钱、更不崩。
+  · 可替换变量：白旗 → 血旗 / 残破军旗 / 家族旗；雪原 → 焦土 / 沼泽。
+
+
+────────────────────────────────────────
+【04】苍穹旋涡 · 仰望
+来源：6af9ff14da1904b69dc8535377d51855
+────────────────────────────────────────
+
+画面还原：
+  天空被一个巨大的蓝色螺旋旋涡占据，云层被卷入旋涡中心。
+  画面左下方一名白衣身影站在崖边黑色残骸之上仰望苍穹，
+  衣袂与长发被上升气流掀起。
+
+中文提示词：
+  极低机位大仰角，天空被一个巨大蓝色螺旋旋涡占据，云层被吸入旋涡中心旋转，旋涡中心透出微光，画面左下方一名白衣身影立于崖边黑色残骸之上仰望苍穹，衣袂与长发被上升气流掀起，尘屑向天空倒流飘升，镜头缓慢上升仰摇，冷蓝色调，体积光，电影级 3D 国漫，4K，9:16 竖屏，无背景音乐，无字幕
+
+EN 提示词：
+  Extreme low-angle looking up, the sky dominated by a giant blue spiral vortex, clouds sucked into its center and rotating, faint light glowing at the core, a white-robed figure at lower-left standing atop dark wreckage at the cliff edge gazing up at the heavens, robes and long hair lifted by the updraft, debris streaming upward into the sky, slow rising tilt camera, cold blue palette, volumetric light, cinematic 3D anime, 4K, 9:16 vertical --no bgm subtitle
+
+关键点：
+  · 情绪功能：高燃峰值前置 / 大招预兆，宣传号前三秒炸点。
+  · 「倒流飘升的尘屑」是全镜最关键的物理信号，暗示异变。
+  · 人小、天大为妙，不要放大人物比例，否则奇观感消失。
+  · 可替换变量：旋涡 → 天眼 / 星门 / 血色裂天 / 佛手金轮。
+
+
+────────────────────────────────────────
+【05】白发银冠 · 花瓣环绕面部特写
+来源：b6edc5ac573491d00c3deba5f01d4877
+────────────────────────────────────────
+
+画面还原：
+  白发女子正面极近特写，头戴繁复银质头冠，垂坠银色发饰，
+  粉白色花瓣与绒絮在四周缓缓环绕飘浮，眼妆凌厉。
+
+中文提示词：
+  面部大特写，白发女子正面直视镜头，头戴繁复银质头冠，垂坠的银色发饰随动作轻晃，粉白色花瓣与绒絮在四周缓缓环绕飘浮，面妆凌厉、眼神锐利带一丝睥睨，冷白与浅粉色调，柔光包裹面部，浅景深虚化背景，镜头缓慢推近，粒子漂浮，电影级 3D 国漫，4K，9:16 竖屏，无背景音乐，无字幕
+
+EN 提示词：
+  Extreme close-up of a woman's face, white-haired, looking straight into camera, wearing an elaborate silver crown with dangling silver ornaments swaying slightly, pink-white petals and fluff drifting slowly around her, sharp makeup, piercing gaze with a hint of disdain, cold-white and pale-pink palette, soft light wrapping her face, shallow depth of field, slow push-in, floating particles, cinematic 3D anime, 4K, 9:16 vertical --no bgm subtitle
+
+关键点：
+  · 情绪功能：美貌暴击 / 角色登场定妆，人气角色首秀必用。
+  · 「直视镜头」是关键，别让她看别处——压迫感全靠这个。
+  · 粒子要慢、要少、要有前后景分层，多了变廉价特效。
+  · 可替换变量：银冠 → 骨冠 / 花冠 / 破损玉冠；花瓣 → 符纸 / 雪 / 火星。
+
+
+────────────────────────────────────────
+【06】粉衣持扇 · 半圆扇面能量爆发
+来源：1a6e757287bf0eaaad381a85eb47637f
+────────────────────────────────────────
+
+画面还原：
+  粉衣女子侧身单手将折扇向前推出，扇前瞬间爆发出一面巨大的
+  半圆形金色能量扇面（层层扇骨状光芒旋转展开），
+  地面石板震裂、尘土气浪向两侧掀起，背景为暗色宫楼。
+
+中文提示词：
+  中景，粉衣女子侧身单手将折扇向前推出，扇面展开的瞬间，前方爆发出一面巨大的半圆形金色能量扇面，层层扇骨状的光芒高速旋转向外展开，金色粒子向外飞散，地面石板震裂、尘土气浪向两侧掀起，衣摆与长发被冲击波向后扯动，镜头轻微后拉并抖动，暗色宫楼远景作背景，暖金与冷灰对比，电影级 3D 国漫，4K，运动模糊，9:16 竖屏，无背景音乐，无字幕
+
+EN 提示词：
+  Medium shot, a pink-robed woman thrusts a folding fan forward with one hand, the instant it opens a giant semi-circular golden energy fan erupts in front of her, layered rib-like rays spinning outward at high speed, golden particles scattering, stone slabs cracking and dust blasting sideways, her hem and hair torn backward by the shockwave, slight camera pull-back and shake, dark palace silhouette in the background, warm gold against cool grey, cinematic 3D anime, 4K, motion blur, 9:16 vertical --no bgm subtitle
+
+关键点：
+  · 情绪功能：施法爆发峰值，全片高燃顶点。
+  · 「扇形」这个形状本身就是这套招式的签名，别改成圆形光球。
+  · 必须加地面反馈（石裂 + 气浪），否则像贴图。
+  · 可替换变量：折扇 → 团扇 / 拂尘 / 令牌；金色 → 银白 / 青碧。
+
+
+────────────────────────────────────────
+【07】单膝插剑 · 能量灌地
+来源：074bd01b5947ffe549507da3b6924d87
+────────────────────────────────────────
+
+画面还原：
+  粉衣女子单膝低伏、上身前压，双手握长剑，剑尖垂直插入地面。
+  金色电流顺剑身灌入地底，地面以剑尖为圆心炸开放射状金色光纹，
+  碎石与尘屑被气流托起悬浮。背景深蓝。
+
+中文提示词：
+  中低机位，粉衣女子单膝低伏、上身前压，双手紧握长剑，剑尖垂直插入地面，金色电流顺着剑身奔涌而下灌入地底，地面以剑尖为圆心炸开放射状金色光纹与裂纹，碎石与尘屑被气流托起悬停在半空，衣摆铺散在地面，长发扬起，镜头缓慢环绕半圈，暗蓝背景，暖金能量与冷蓝环境强对比，电影级 3D 国漫，4K，9:16 竖屏，无背景音乐，无字幕
+
+EN 提示词：
+  Medium-low angle, a pink-robed woman crouched on one knee, upper body pressed low, gripping a long sword with both hands, the blade tip driven vertically into the ground, golden current surging down the blade into the earth, radial golden light veins and cracks bursting out from the blade point, gravel and dust lifted and hovering in mid-air, hem spread across the ground, long hair raised, camera slowly orbiting a half circle, dark blue background, warm gold energy against cool blue ambience, cinematic 3D anime, 4K, 9:16 vertical --no bgm subtitle
+
+关键点：
+  · 情绪功能：蓄势 / 觉醒 / 大招读条，接【06】之前用。
+  · 「悬停的碎石」是力量外化的最强信号，比加光效更有效。
+  · 招式完成度靠体态：低伏 + 收紧，不要站直。
+  · 可替换变量：插剑 → 插刀 / 杵地 / 按掌；光纹 → 雷纹 / 冰纹 / 血纹。
+
+
+────────────────────────────────────────
+【08】前景遮挡 · 高塔撑伞
+来源：bbe618dff09c5f08c76d5de6d2337ab4
+────────────────────────────────────────
+
+画面还原：
+  过肩式构图：前景左下方是一个人的后脑与肩背（暗部、虚化）；
+  视线穿过他望向远方——一名白衣女子撑着半球形半透明发光伞，
+  单足点立在古塔飞檐的尖端之上，身后是翻涌云雾与层叠山峦。
+
+中文提示词：
+  过肩式构图，前景左下方是一个人的后脑与肩背，处于暗部并被虚化，视线穿过他望向远方：一名白衣女子撑着半球形半透明发光伞，单足点立在古塔飞檐的尖端之上，伞面透出蓝白色柔光，身后是翻涌的云雾与层叠山峦，镜头极缓推近并轻微上摇，前后景深强烈分离，冷蓝月色调，体积光，电影级 3D 国漫，4K，9:16 竖屏，无背景音乐，无字幕
+
+EN 提示词：
+  Over-the-shoulder composition, a person's head and shoulders in the dark foreground at lower-left, blurred, the gaze passing over them into the distance: a white-robed woman holding a translucent hemispherical glowing umbrella, balanced on the tip of an ancient pagoda's upturned eave, blue-white soft light glowing through the umbrella, churning mist and layered mountains behind, extremely slow push-in with slight tilt up, strong foreground-background separation, cold blue moonlight palette, volumetric light, cinematic 3D anime, 4K, 9:16 vertical --no bgm subtitle
+
+关键点：
+  · 情绪功能：耍帅登场 / 高手亮相，宣传号第二钩子位。
+  · 「前三后实、前景压暗」是本镜的全部秘密，前景不能虚过头。
+  · 撑伞 + 立于塔尖 = 反常规物理，正是仙侠感的来源。
+  · 可替换变量：伞 → 灯笼 / 长幡 / 白骨伞；塔尖 → 剑尖 / 枯树顶 / 船首。
+
+
+────────────────────────────────────────
+【09】高速破阵 · 雪雾撞飞
+来源：20b6f459808497cbf53e44adda684c6c
+────────────────────────────────────────
+
+画面还原：
+  青色衣女子以极高速度斜向冲杀穿过敌阵，身影被强烈运动模糊
+  拉成拖影；周围数名持械士兵的剪影被冲击力接连撞飞抛向两侧。
+  雪雾与尘浪被撕开成放射状气浪。
+
+中文提示词：
+  低机位跟拍，青色衣女子以极高速度斜向冲入敌阵，身影被高强度运动模糊拉成拖影，周围数名持械士兵的剪影被冲击力接连撞飞抛向两侧，雪雾与尘浪被撕开成放射状气浪，地面碎屑飞溅，衣摆与长发拉出数道残影，镜头快速横移跟随，压缩透视配合强烈动态模糊，冷蓝光晕笼罩，电影级 3D 国漫，4K，运动模糊，9:16 竖屏，无背景音乐，无字幕
+
+EN 提示词：
+  Low tracking shot, a woman in cyan robes charging diagonally into the enemy ranks at extreme speed, her figure smeared into motion-blur ghosts, several armed soldier silhouettes blown away to both sides by the impact, snow mist and dust torn open into radial shockwaves, debris splashing up, her hem and hair trailing afterimages, fast lateral tracking camera, compressed perspective with heavy dynamic blur, cold blue glow, cinematic 3D anime, 4K, motion blur, 9:16 vertical --no bgm subtitle
+
+关键点：
+  · 情绪功能：爽感爆发 / 破阵高光，宣传号最强钩子镜。
+  · 士兵必须「被撞飞」而不是「被砍倒」，冲击力来自受力反馈。
+  · 敌兵只用剪影，不画脸，省算力且不崩人脸。
+  · 与另一人「双人对打」时，敌方务必用不同服装 + 武器区分。
+
+
+────────────────────────────────────────
+【10】写实真人 · 林间持刀行走
+来源：8c16fcf902cfbae3d3f759a7de82386d
+────────────────────────────────────────
+
+画面还原：
+  真人写实质感。一片高大松林间的土径上，一位白衣女子横持长刀
+  缓步走来。逆光穿过树冠在空气中打出丁达尔光束，
+  光斑落在肩头与刀身，脚步踩过落叶与泥土。
+
+中文提示词：
+  真人写实电影感，中景正面跟拍，一片高大松林间的土径上，一位白衣女子横持一把长刀缓步向前，衣袍下摆随步伐摆动，脚步踩过落叶与泥土，逆光穿过树冠在空气中打出丁达尔光束，光斑落在她的肩头与刀身，她面无表情缓步逼近，脚步与呼吸带来极轻微的手持晃动，浅景深，35mm 胶片质感，低饱和，轻微颗粒，9:16 竖屏，无背景音乐，无字幕
+
+EN 提示词：
+  Photoreal cinematic, medium frontal tracking shot, on a dirt path through a forest of tall pines, a woman in white robes holds a long saber horizontally, walking slowly forward, her hem swaying with each step, boots pressing fallen leaves and soil, backlight piercing the canopy into god rays in the air, patches of light falling on her shoulders and blade, she advances slowly with a blank expression, very slight handheld drift from footfall and breathing, shallow depth of field, 35mm film grain, low saturation, slight grain, 9:16 vertical --no bgm subtitle
+
+关键点：
+  · 情绪功能：真实质感 / 压抑逼近，区别于 3D 国漫的另一种高级感。
+  · 「横持长刀 + 面无表情」比挥刀更狠，威慑来自克制。
+  · 3D 国漫切写实的替换词：把「电影级 3D 国漫」整段换成
+    「photoreal cinematic, 35mm film grain, low saturation, slight grain」。
+  · 画幅建议 16:9 横屏，写实路线横屏更电影。
+
+
+========================================
+通用负面词（每条都挂）
+========================================
+lowres, blurry, extra fingers, deformed hands, extra limbs, bad anatomy, plastic skin, over-smoothed face, waxy, oversaturated, watermark, text, logo, subtitle, wide shot composed side by side
+
+双人 / 多人镜额外追加：
+fused bodies, merged characters, identity swap, morphing between two characters
+
+
+========================================
+投放建议（对应既定的两个方向）
+========================================
+
+宣传号（钩子前置，前 3 秒定生死）：
+  首选 09 高速破阵 → 06 扇面爆发 → 02 战损回眸
+  备选封面帧：02（战损 wink）、05（白发银冠）
+
+剧情（正式分镜，按叙事节奏排）：
+  01 云海对望（开场定调）
+  → 05 白发登场（人物首秀）
+  → 04 苍穹旋涡（异变预兆）
+  → 07 单膝插剑（蓄势）
+  → 06 扇面爆发（峰值）
+  → 03 雪原战旗（转场/群像）
+  → 08 高塔撑伞（高手登场）
+  → 02 战损回眸（情绪落地）
+  → 10 林间持刀（写实段落收尾）
+
+
+========================================
+校验清单
+========================================
+[√] 10 条逐一还原，无遗漏
+[√] 每条含 画面还原 + 中文 + EN + 关键点
+[√] 中英双语，EN 均带 --no bgm subtitle
+[√] 全局无背景音乐、无字幕
+[√] 9:16 竖屏，未使用左右并排构图（原片并排者已给改造方案）
+[√] 通用负面词 + 双人专属负面词分列
+
+========================================
+技法来源：06 号《AI漫剧爆款镜头语言库》8 类配方 + seedance-high-impact-combat-GFSM（多人镜空间契约）
+========================================

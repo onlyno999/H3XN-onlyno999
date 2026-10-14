@@ -1,0 +1,153 @@
+﻿========================================
+大片质感 · 豪华版镜头（去廉价感）V1
+========================================
+生成：2026-09-21
+用途：豪华质感范本 + 可复用规则
+全局：无背景音乐，无字幕 ／ 默认 9:16 竖屏
+========================================
+
+核心结论先说：
+  "豪华"不靠堆光效，豪华靠三件事——
+  ① 材质词（AI 默认出塑料，必须指定工艺与材料）
+  ② 景深层数（三层以上，绝不能只有主体 + 空白背景）
+  ③ 光源物理性（每道光都要有出处，粒子要少、要慢、要有前后分层）
+========================================
+
+
+────────────────────────────────────────
+一、豪华范本镜头｜仙宫大殿 · 天光登场
+────────────────────────────────────────
+
+中文提示词：
+  极低机位自丹陛之下向上仰拍，一座悬浮于云海之上的仙宫大殿：汉白玉阶层层向上延伸，两侧蟠龙金柱鎏金剥落、露出底下铜胎，柱身缠满錾刻云纹，殿内穹顶藻井透下一道笔直的金色天光柱，光柱中悬浮的尘埃缓缓翻滚，层层纱幔在气流中轻晃，地面青石打磨如镜、倒映出人影与柱影，铜炉升起一线青烟笔直不散；一名女子立于天光柱正中，身披织金云纹大袖礼服，外罩缂丝披帛，头戴掐丝银冠并垂下细碎禁步，腰系玉禁步随呼吸轻晃，衣摆垂坠出自然的褶皱与暗绣纹路，肩头与发丝被天光勾出明亮轮廓，袍角在气流中缓缓翻卷；镜头自丹陛之下缓缓上升并向前推近，浅景深，前景以一尊香炉虚化遮挡，三层景深强烈分离，主色金、辅色青、点缀朱红，低饱和，材质细节清晰，电影级 3D 国漫，4K，体积光，9:16 竖屏，无背景音乐，无字幕
+
+EN 提示词：
+  Extreme low angle looking up from the foot of crimson steps, a celestial palace hall suspended above a sea of clouds: tiers of white marble stairs rising upward, coiled-dragon gilded pillars on both sides with the gilding flaking off to reveal the bronze core beneath, pillars wrapped in chased cloud patterns, a straight golden shaft of daylight falling from the caisson ceiling dome, dust motes tumbling slowly inside the light shaft, layers of gauze drapery swaying in the airflow, polished bluestone floor mirroring the figures and pillars, a thin thread of incense smoke rising straight from a patinated bronze censer; a woman standing at the center of the light shaft, wearing a wide-sleeved ceremonial robe woven with gold cloud patterns, a kesi silk shawl over it, a filigree silver crown with fine dangling pendants, a jade waist ornament swaying with her breath, her hem falling into natural folds with subtle hidden embroidery, bright rim light tracing her shoulders and hair, robe corners curling slowly in the airflow; camera rising slowly from the foot of the steps and pushing in, shallow depth of field, a censer blurred in the foreground as occlusion, strong three-layer depth separation, gold primary, cyan secondary, vermilion accent, low saturation, crisp material detail, cinematic 3D anime, 4K, volumetric light, 9:16 vertical --no bgm subtitle
+
+这条镜头里藏着的豪华密码：
+  · 鎏金剥落露出铜胎  → 完美即廉价，加"不完美"才贵
+  · 地面倒影          → 最高性价比的大片感手段，成本为零
+  · 天光柱里的尘埃    → 光要有介质才成立，否则是贴图
+  · 前景香炉虚化遮挡  → 三层景深的标志，也是镜头语言
+  · 三色控制          → 主金 / 辅青 / 点缀朱红，多了就花
+
+
+────────────────────────────────────────
+二、服饰 · 豪华度五层写法
+────────────────────────────────────────
+
+只写"华丽的衣服"，AI 一定出塑料。必须分层给：
+
+第一层  廓形    大袖礼服 / 广袖 / 曳地长裙 / 云肩 / 蔽膝 / 革带
+第二层  材质    织锦 / 缂丝 / 云锦 / 妆花缎 / 纱 / 罗 / 大漆 / 皮革
+第三层  工艺    织金 / 暗绣 / 盘金绣 / 掐丝 / 錾刻 / 鎏金 / 螺钿 / 点翠
+第四层  纹样    云纹 / 蟠龙 / 缠枝莲 / 海水江崖 / 十二章纹 / 回纹
+第五层  配饰    禁步 / 玉带 / 步摇 / 璎珞 / 披帛 / 帔子 / 臂钏 / 香囊
+
+服饰必杀技：
+  · 层数不少于三（外袍 + 中衣 + 披帛），每层材质词不同。
+  · 必写"垂坠褶皱"与"暗绣纹路"——布料的重力感是真人感的核心。
+  · 必写配饰的"动态"：随呼吸轻晃 / 随步伐相击 / 被气流掀起。
+    静止的配饰 = 贴图；会动的配饰 = 高级。
+
+服饰英文词库：
+  brocade 织锦 ｜ kesi silk 缂丝 ｜ cloud-pattern weave 云纹织 ｜ gold-threaded 织金
+  hidden embroidery 暗绣 ｜ couched gold embroidery 盘金绣 ｜ filigree 掐丝
+  natural folds 自然褶皱 ｜ heavy hem 垂坠下摆 ｜ wide-sleeved ceremonial robe 大袖礼服
+  cloud collar 云肩 ｜ silk shawl 披帛 ｜ jade waist pendant 玉禁步 ｜ hair crown 发冠
+
+
+────────────────────────────────────────
+三、场景 · 豪华度五层写法
+────────────────────────────────────────
+
+第一层  建筑结构  丹陛 / 蟠龙柱 / 藻井 / 飞檐 / 斗拱 / 阙楼 / 廊柱 / 须弥座
+第二层  材质      汉白玉 / 青石打磨如镜 / 做旧铜 / 大漆金柱 / 螺钿嵌饰 / 斑驳壁画
+第三层  景深      前景遮挡物 + 中景主体 + 远景建筑轮廓（缺一不可）
+第四层  气氛      纱幔 / 香烟 / 尘埃 / 雾气 / 水汽 / 落叶（要有前后分层）
+第五层  反光      地面倒影 / 金属高光 / 水面反射 / 湿润石面反光
+
+场景必杀技：
+  · 地面倒影是最高性价比的一招，几乎零成本换来大片感。
+  · 远景一定要"被雾气压成剪影"——层叠的模糊轮廓比清晰的模型更贵。
+  · 气氛层要有前后分层：近处大颗粒虚化、远处小颗粒密集，不要均匀铺满。
+
+场景英文词库：
+  white marble 汉白玉 ｜ polished bluestone 打磨青石 ｜ patinated bronze 做旧铜
+  caisson ceiling 藻井 ｜ upturned eave 飞檐 ｜ bracket set 斗拱 ｜ coiled-dragon pillar 蟠龙柱
+  crimson steps 丹陛 ｜ gauze drapery 纱幔 ｜ incense smoke 香烟 ｜ dust motes 尘埃
+  floor reflection 地面倒影 ｜ atmospheric haze 空气雾霭 ｜ silhouetted layers 层叠剪影
+
+
+────────────────────────────────────────
+四、灯光 · 三层布光（大片的底线）
+────────────────────────────────────────
+
+只用一盏光，画面必平必假。豪华镜头至少三层：
+
+主光    天光柱 / 穹顶透光 / 宫灯 —— 定调，唯一的高光源
+轮廓光  侧逆光勾肩线与发丝 —— 把人从背景里剥离出来
+环境光  地面冷反射 / 远处雾光 —— 压住暗部，避免死黑
+
+灯光铁律：
+  · 每道光都必须有出处（天光 / 宫灯 / 法器 / 火盆），凭空发光 = 廉价特效。
+  · 暗部要"有内容的暗"：靠环境反射补一点，不要纯黑。
+  · 冷暖对比至少一处：暖金主体光 + 冷蓝环境反射。
+  · 体积光必须配介质：光柱里要有尘埃或烟雾，否则是贴图。
+
+
+────────────────────────────────────────
+五、去廉价感对照表（最实用，直接照改）
+────────────────────────────────────────
+
+廉价写法                      改成这样
+─────────────────────────────────────────────────────────
+满屏金色粒子飞舞        →  单一天光柱，柱内少量尘埃缓慢翻滚
+华丽宫殿                →  汉白玉阶 + 蟠龙金柱 + 藻井 + 纱幔，指定材质
+金色长裙                →  织金云纹大袖礼服 + 缂丝披帛 + 掐丝银冠 + 玉禁步
+高饱和七彩              →  三色控制：主金 / 辅青 / 点缀朱红，低饱和
+快速甩镜、频繁切镜      →  缓慢推轨或缓升，一次运镜走完
+完美无瑕的脸与衣服      →  加褶皱、磨损、鎏金剥落、灰尘、氧化
+空旷背景                →  三层景深 + 前景虚化遮挡
+能量光球乱飞            →  能量有形状有来源：扇形 / 柱形，从法器发出
+人物全身清晰            →  浅景深，背景虚化，前后分离
+亮部一片死白            →  保留高光细节，降低整体曝光半档
+地面什么都没有          →  加倒影、积水、碎屑、青烟
+配饰静止不动            →  写动态：随呼吸轻晃 / 相击 / 被气流掀起
+
+
+────────────────────────────────────────
+六、豪华度通用后缀（挂在任何提示词末尾）
+────────────────────────────────────────
+
+中文后缀：
+  材质细节清晰，织物褶皱自然，金属有氧化与磨损痕迹，三层景深分离，浅景深，低饱和，三色控制，体积光，缓慢运镜，电影级布光，电影级 3D 国漫，4K，9:16 竖屏，无背景音乐，无字幕
+
+EN 后缀：
+  crisp material detail, natural fabric folds, oxidized and worn metal, three-layer depth separation, shallow depth of field, low saturation, three-color palette, volumetric light, slow camera movement, cinematic lighting, cinematic 3D anime, 4K, 9:16 vertical --no bgm subtitle
+
+豪华度负面词（必加）：
+  cheap plastic look, flat lighting, even lighting, oversaturated, neon rainbow, glossy toy surface, smooth textureless surface, sticker-like effects, empty background, uniform particles, lowres, blurry, extra fingers, deformed hands, plastic skin, waxy, watermark, text, logo, subtitle
+
+
+────────────────────────────────────────
+七、校验清单
+────────────────────────────────────────
+
+[√] 材质词不少于 5 个（材料 + 工艺 + 纹样）
+[√] 服饰不少于三层，且配饰写明了动态
+[√] 场景三层景深齐全：前景遮挡 + 中景主体 + 远景剪影
+[√] 地面有倒影或反光
+[√] 灯光三层：主光 + 轮廓光 + 环境光
+[√] 每道光都有物理出处
+[√] 体积光内配了介质（尘埃 / 烟雾）
+[√] 至少一处"不完美"（磨损 / 剥落 / 褶皱 / 灰尘）
+[√] 三色控制，低饱和
+[√] 运镜为缓慢单一运动，非快切快摇
+[√] 无背景音乐，无字幕
+
+========================================
+说明：本文件为「质感层」规则，与镜头类型无关——
+      任何一条提示词（空镜 / 打斗 / 施法 / 特写）挂上第二至第六节的写法，
+      都能从"便宜 AIGC"升级为"大片质感"。
+========================================
