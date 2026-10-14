@@ -24,13 +24,13 @@ description: H3XN 武打短剧生产 Agent（XN＝西瓜＋动作导演的新线
    ```
    后端启动：`backend/.venv/bin/python -m uvicorn app.main:app --host 127.0.0.1 --port 5678`（健康检查 GET /health 200、108 个接口）。已知基线：西瓜自带测试有个别失败源于仓库未附带的运行时配置，非安装故障，不为此停工。
 2. 拉动作导演技能（独立技能版、在线更新）：把 `https://github.com/irenerachel/fight-prompt-director.git` 克隆到宿主的技能目录（本机：`~/workspace/skills/fight-prompt-director/`，目录本尊即 git 克隆，更新时在目录内 `git pull`）。
-3. 拉玄幻仙侠战斗导演（组件三，独立仓、在线更新）：`git clone https://github.com/lixiaoxiao9888-create/xuanhuan-combat-director.git`，把仓内 `xuanhuan-combat-director/` 目录放进宿主技能目录（本机：`~/workspace/skills/xuanhuan-combat-director/`，SKILL.md＋references 8 个规则库＋scripts 自检脚本）。
+3. 拉玄幻仙侠战斗导演（组件三，独立仓、各自在线更新——与组件一、二同一规矩，互不相干）：`git clone https://github.com/lixiaoxiao9888-create/xuanhuan-combat-director.git ~/repos/xuanhuan-combat-director`（源克隆常驻此路径），把仓内 `xuanhuan-combat-director/` 目录放进宿主技能目录（本机：`~/workspace/skills/xuanhuan-combat-director/`，SKILL.md＋references 8 个规则库＋scripts 自检脚本）。**更新法**：在源克隆 `git pull` 后，把子目录整目录同步覆盖技能目录副本——组件三永远从它自己的上游仓更新，不从 H3XN 包内副本反向同步（包内 `references/skills/` 的技法快照不含组件三本体）。
 4. 云端工作流激活（一次性）：工作流 `2110403291422220289` 若探针返回 **810**，须先在 RunningHub 网页打开并**运行一次**激活（之后回 803 即可派发）。激活是账号侧动作，Agent 只探针确认状态，不代跑。
 
 ## Tooling
 - 西瓜本体：`~/workspace/xigua-drama-agent`（FastAPI :5678＋React 前端；本 Agent 只用其前半截流水线，不用它的本地 ComfyUI 算力）。
 - 动作导演：技能 `fight-prompt-director`（本机 `~/workspace/skills/fight-prompt-director/`）。
-- 玄幻仙侠导演：技能 `xuanhuan-combat-director`（本机 `~/workspace/skills/xuanhuan-combat-director/`，源仓 lixiaoxiao9888-create/xuanhuan-combat-director V2.6.0）。
+- 玄幻仙侠导演：技能 `xuanhuan-combat-director`（本机 `~/workspace/skills/xuanhuan-combat-director/`；源仓 lixiaoxiao9888-create/xuanhuan-combat-director，源克隆常驻 `~/repos/xuanhuan-combat-director/`，各自 git pull 更新，装入时基线 V2.6.0／7a05678）。
 - 打戏工艺规程（包内整合，本包的方法层）：`references/fight_craft.md`（技能 `fight-craft-onlyno999` 的包内整合版，与包外同名技能同源——八包蒸馏的写词七步＋落词八项自检；本包写动作段必过此规程当质检门，深查再回各源包）。
 - 打戏技法知识库（同作者/同批学入，按需查阅、不是组件、不改派发口径）：`seedance-combat-prompt`（二次元打戏：完播率公式、开局冲击、近景对招招式序列化、流派技法与兵器库）、`seedance-high-impact-combat-GFSM`（4–15s 高密度近身：空间三锚、攻防成对、物理闭环）、`ai-spell-impact-lens`（施法冲击帧＋震屏回归两式）、`seedance-fantasy-ultimate-prompt`（九大属性大招库）、`ai-cinematic-shot-craft`（国风漫剧镜头工艺：类型/质感/特效元件/节奏八卷）、`real-combat-director`（真人写实打斗：11 环动力链、防守三态、多人调度）、`short-drama-director`（漫剧老李全流程 V6.9.9：门控剧本、资产锁、机检；其 H3 支线只作格式参考，派发仍走本包出口口径）。
 - 云端出口：RunningHub **workflow** `2110403291422220289`（武打设计专用），端点 `POST /openapi/v2/run/workflow/2110403291422220289`，Standard 实例（`instanceType=default`）。**不是** H3XG 的 2110385615559806978——两条线背后的 API 模型不一样，节点图谱也完全不同（本流 29 节点全在 115–179），严禁互切、混用。
