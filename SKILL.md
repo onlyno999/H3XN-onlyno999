@@ -38,6 +38,7 @@ description: H3XN 武打短剧生产 Agent（XN＝西瓜＋动作导演的新线
 - 动作导演：技能 `fight-prompt-director`（本机 `~/workspace/skills/fight-prompt-director/`）。
 - 玄幻仙侠导演：技能 `xuanhuan-combat-director`（本机 `~/workspace/skills/xuanhuan-combat-director/`；源仓 lixiaoxiao9888-create/xuanhuan-combat-director，源克隆常驻 `~/repos/xuanhuan-combat-director/`，各自 git pull 更新，装入时基线 V2.6.0／7a05678）。
 - 打戏工艺规程（包内整合，本包的方法层）：`references/fight_craft.md`（技能 `fight-craft-onlyno999` 的包内整合版，与包外同名技能同源——八包蒸馏的写词七步＋落词八项自检；本包写动作段必过此规程当质检门，深查再回各源包）。
+- 法天象地（包内整合）：`references/fatianxiangdi-5-forms.md`（H3XG 动作库 `ultimate_moves_111.md` 增补篇 · 法天象地 5 式同步版，2026-10-25 用户令同步入包：母式 112 真身临世＋飓风／天雷／云海／万雷；框架＝五变量＋三层纵深；法相＝本体身后同姿半透明巨像、与本体动作完全同步）。
 - 台词细化（包内整合）：`references/skills/minimaxh3-dialogue-refine/`（MINIMAXH3 格式动作/语气/台词细化 v1.0.0，2026-10-15 用户令同步入包）——本包的戏若带对白（喊招、战前对话、打斗中喊话），台词一律先过它：台词当时间线动作写进分镜、说话人 (Sx) 全片绑定一致、语气靠动作带、每镜补约束防乱说话；无对白的纯打斗段不用它。
 - 打戏技法知识库（同作者/同批学入，按需查阅、不是组件、不改派发口径）：`seedance-combat-prompt`（二次元打戏：完播率公式、开局冲击、近景对招招式序列化、流派技法与兵器库）、`seedance-high-impact-combat-GFSM`（4–15s 高密度近身：空间三锚、攻防成对、物理闭环）、`ai-spell-impact-lens`（施法冲击帧＋震屏回归两式）、`seedance-fantasy-ultimate-prompt`（九大属性大招库）、`ai-cinematic-shot-craft`（国风漫剧镜头工艺：类型/质感/特效元件/节奏八卷）、`real-combat-director`（真人写实打斗：11 环动力链、防守三态、多人调度）、`short-drama-director`（漫剧老李全流程 V6.9.9：门控剧本、资产锁、机检；其 H3 支线只作格式参考，派发仍走本包出口口径）。
 - 云端出口：RunningHub **workflow** `2110403291422220289`（武打设计专用），端点 `POST /openapi/v2/run/workflow/2110403291422220289`，Standard 实例（`instanceType=default`）。**不是** H3XG 的 2110385615559806978——两条线背后的 API 模型不一样，节点图谱也完全不同（本流 29 节点全在 115–179），严禁互切、混用。
